@@ -1,0 +1,18 @@
+{
+  "" : {
+    "diagnostics" : "/Users/hyunjun/Desktop/moondab/frontend/build/macos/Build/Intermediates.noindex/Pods.build/Debug/isar_flutter_libs.build/Objects-normal/x86_64/isar_flutter_libs-master.dia",
+    "emit-module-dependencies" : "/Users/hyunjun/Desktop/moondab/frontend/build/macos/Build/Intermediates.noindex/Pods.build/Debug/isar_flutter_libs.build/Objects-normal/x86_64/isar_flutter_libs-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/hyunjun/Desktop/moondab/frontend/build/macos/Build/Intermediates.noindex/Pods.build/Debug/isar_flutter_libs.build/Objects-normal/x86_64/isar_flutter_libs-master-emit-module.dia",
+    "swift-dependencies" : "/Users/hyunjun/Desktop/moondab/frontend/build/macos/Build/Intermediates.noindex/Pods.build/Debug/isar_flutter_libs.build/Objects-normal/x86_64/isar_flutter_libs-master.swiftdeps"
+  },
+  "/Users/hyunjun/.pub-cache/hosted/pub.dev/isar_flutter_libs-3.1.0+1/macos/Classes/IsarFlutterLibsPlugin.swift" : {
+    "const-values" : "/Users/hyunjun/Desktop/moondab/frontend/build/macos/Build/Intermediates.noindex/Pods.build/Debug/isar_flutter_libs.build/Objects-normal/x86_64/IsarFlutterLibsPlugin.swiftconstvalues",
+    "dependencies" : "/Users/hyunjun/Desktop/moondab/frontend/build/macos/Build/Intermediates.noindex/Pods.build/Debug/isar_flutter_libs.build/Objects-normal/x86_64/IsarFlutterLibsPlugin.d",
+    "diagnostics" : "/Users/hyunjun/Desktop/moondab/frontend/build/macos/Build/Intermediates.noindex/Pods.build/Debug/isar_flutter_libs.build/Objects-normal/x86_64/IsarFlutterLibsPlugin.dia",
+    "index-unit-output-path" : "/Pods.build/Debug/isar_flutter_libs.build/Objects-normal/x86_64/IsarFlutterLibsPlugin.o",
+    "llvm-bc" : "/Users/hyunjun/Desktop/moondab/frontend/build/macos/Build/Intermediates.noindex/Pods.build/Debug/isar_flutter_libs.build/Objects-normal/x86_64/IsarFlutterLibsPlugin.bc",
+    "object" : "/Users/hyunjun/Desktop/moondab/frontend/build/macos/Build/Intermediates.noindex/Pods.build/Debug/isar_flutter_libs.build/Objects-normal/x86_64/IsarFlutterLibsPlugin.o",
+    "swift-dependencies" : "/Users/hyunjun/Desktop/moondab/frontend/build/macos/Build/Intermediates.noindex/Pods.build/Debug/isar_flutter_libs.build/Objects-normal/x86_64/IsarFlutterLibsPlugin.swiftdeps",
+    "swiftmodule" : "/Users/hyunjun/Desktop/moondab/frontend/build/macos/Build/Intermediates.noindex/Pods.build/Debug/isar_flutter_libs.build/Objects-normal/x86_64/IsarFlutterLibsPlugin~partial.swiftmodule"
+  }
+}
